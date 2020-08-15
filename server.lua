@@ -1,1 +1,3 @@
-print(player.Name .. 'has joined')
+if msg == 'checkRepo' then
+  print('Repo is loaded')
+ end
