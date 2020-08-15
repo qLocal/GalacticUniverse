@@ -1,1 +1,3 @@
-print('this is from github')
+function printYes()
+  print('Yes')
+end
